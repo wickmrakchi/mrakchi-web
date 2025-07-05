@@ -46,8 +46,8 @@
 
 1. **Clone the project from GitHub:**
    ```bash
-   git clone https://github.com/wickmrakchi/hamza-portfolio
-   cd hamza-portfolio
+   git clone https://github.com/wickmrakchi/mrakchi-web
+   cd mrakchi-web
    ```
 
 2. **Install dependencies:**
