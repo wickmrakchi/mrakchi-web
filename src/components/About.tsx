@@ -1,6 +1,7 @@
 import React from 'react';
 import { Code, Globe, Bot } from 'lucide-react';
 
+
 const About: React.FC = () => {
   return (
     <section id="about" className="py-20 bg-white dark:bg-gray-800">
@@ -10,7 +11,7 @@ const About: React.FC = () => {
             About Me
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">
-            Who is Hamza?
+            Who is Mrakchi?
           </h2>
         </div>
         
@@ -19,14 +20,18 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="w-full h-96 bg-gray-200 dark:bg-gray-700 rounded-xl overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg" 
+                  src="https://cdn.discordapp.com/attachments/1363575512542482452/1388600013914902701/BANNERwick.jpg?ex=6861920a&is=6860408a&hm=9a7826cb7d2dd4534c5efe40b7478e8fdc3b10cc3531a43d9b98a42bb3000057&" 
                   alt="Programmer working on code" 
                   className="w-full h-full object-cover"
                 />
               </div>
-              {/* <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-red-600 rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-lg">Moroccan Developer</span>
-              </div> */}
+              <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-red-600 rounded-xl flex items-center justify-center">
+                <img 
+                  src="https://cdn.discordapp.com/attachments/1363575512542482452/1388600674153005186/DISCORD_LOGO.gif?ex=686192a7&is=68604127&hm=0fdf3da990301ad09686ea8083350cc9b7048867f2ef71740afe476a0f3575c7&" 
+                  alt="Programmer working on code" 
+                  className="w-full h-full object-cover"
+                />
+              </div>
             </div>
           </div>
           
