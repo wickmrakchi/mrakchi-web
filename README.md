@@ -137,7 +137,7 @@ The request is sent to Discord in this format:
 ## 🔗 Contact Information
 
 - **GitHub:** [Github](https://github.com/wickmrakchi)
-- **Discord:** [Discord Wick Studio](https://discord.gg/wicks)
+- **Discord:** [Discord Wick Studio](https://discord.gg/MckC3VTtdM)
 - **Discord Community:** [Discord Community](https://discord.gg/TakZcsFZRN)
 - **Instagram:** [Instagram](https://www.instagram.com/mrakchi_5)
 ---
