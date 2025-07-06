@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/2 mb-10 md:mb-0">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-4">
               <span className="block">Hello, I'm</span>
-              <span className="text-red-600">Hamza</span>
+              <span className="text-blue-600">Wick - Mrakchi</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-700 dark:text-gray-300 mb-8">
               A passionate web developer and Discord bot programmer from Morocco
