@@ -42,7 +42,7 @@ const ServiceCard: React.FC<ServiceCardProps> = ({ title, description, price, ic
   };
 
   const sendToDiscord = async (data: ServiceRequestForm) => {
-    const webhookUrl = 'YOUR_DISCORD_WEBHOOK_URL_HERE'; // Replace with your Discord webhook URL
+    const webhookUrl = 'https://discord.com/api/webhooks/1494082755783426079/3oKtHM4jpBBBg81BBDCDTRZX4TAluLf2AW0cHhvtzRoSHT1jzed0T6z2zLO-vLcDcvEq'; // Replace with your Discord webhook URL
 
     const message = {
       content: `🛠️ **New Service Request By <@${data.IdAccountDiscord}>:**
