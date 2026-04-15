@@ -22,7 +22,7 @@ const Contact: React.FC = () => {
   };
 
   const sendToDiscord = async (data: typeof formData) => {
-    const webhookUrl = 'https://discord.com/api/webhooks/1388523959838052422/cxzmFeY-CXY9CjPhE8IetJ5C-cYB75m5pM0TMoWLUCBH8bFFbYUmsSxMwtxj2CkUeGPD'; // Replace with your Discord webhook URL
+    const webhookUrl = 'https://discord.com/api/webhooks/1494082474144305374/xZLzSvQFq5L3QIhwIQaCqtSlwFUe3W4Bl7aSC5MnE8EgKrn8VIRaUhGdUu9iRo8y9Kp2'; // Replace with your Discord webhook URL
     
     const message = {
       content: `**New message from the contact page:**\n- **Name:** ${data.name}\n- **Email:** ${data.email}\n- **Subject:** ${data.subject}\n- **Message:** ${data.message}`
